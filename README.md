@@ -1,12 +1,16 @@
 # Brewski, the Beer Review App
 
+![Title Page](client/public/images/TitlePage.png)
+
 ### Group Members
 
-Alyssa Keimach, Emery Cho, John Alexander Ferguson, Patrick Luu
+Patrick Luu, Alyssa Keimach, John Alexander Ferguson, Emery Cho
 
 ### Purpose
 
 Brewski is a web application that allows anyone to leave reviews of previously consumed craft beer.
+
+![Concept Page](client/public/images/concept.png)
 
 ### Deployed Website
 
@@ -19,6 +23,9 @@ First of all, users will click Login to create an account using either a Google 
 ### How it works.
 
 Users upload an image of a beer by using an image URL, uploading a local image file, or by taking a picture of it with a phone camera. The Google Cloud Vision API helps to identify the uploaded beer by detecting the beer's logo and name. The Brewery DB API will use the information on the logo and name of the beer to to return a description of the uploaded beer. Once this is done, users can begin reviewing the beer that has been uploaded. Once ratings are present for each beer, the RateBeer API will display all ratings and give the beer an average rating. All user submitted content will be stored using MySQL.
+
+![Technology Page](client/public/technology/.png)
+![Model Page](client/public/images/Model.png)
 
 ### Screenshots
 
