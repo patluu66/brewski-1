@@ -24,7 +24,7 @@ First of all, users will click Login to create an account using either a Google 
 
 Users upload an image of a beer by using an image URL, uploading a local image file, or by taking a picture of it with a phone camera. The Google Cloud Vision API helps to identify the uploaded beer by detecting the beer's logo and name. The Brewery DB API will use the information on the logo and name of the beer to to return a description of the uploaded beer. Once this is done, users can begin reviewing the beer that has been uploaded. Once ratings are present for each beer, the RateBeer API will display all ratings and give the beer an average rating. All user submitted content will be stored using MySQL.
 
-![Technology Page](client/public/technology/.png)
+![Diagram Page](client/public/AppDiagram.png)
 ![Model Page](client/public/images/Model.png)
 
 ### Screenshots
@@ -39,6 +39,8 @@ Users upload an image of a beer by using an image URL, uploading a local image f
 ### Dependencies Used
 
 axios, body-parser, brewerydb-node, dotenv, express, isomorphic-fetch, method-override, mysql2, node-cloud-vision-api, path, react-router-dom, request, sequelize, sequlize-cli, spelling, react, react-bootstrap, react-dom, react-file-reader, react-google-login-component, react-modal, react-modal-login, react-responsive-modal, react-scripts
+
+![Technology Page](client/public/technology.png)
 
 ### Libraries Used
 
