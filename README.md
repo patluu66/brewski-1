@@ -4,7 +4,7 @@
 
 ### Group Members
 
-Alyssa Keimach, Patrick Luu, John Alexander Ferguson, Emery Cho
+Patrick Luu, Alyssa Keimach, John Alexander Ferguson, Emery Cho
 
 ### Purpose
 
